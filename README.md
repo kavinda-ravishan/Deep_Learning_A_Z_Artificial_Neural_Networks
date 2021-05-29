@@ -2,3 +2,4 @@
 
 <p><a href="https://www.udemy.com/share/101WmQ/">Deep Learning A-Z™: Hands-On Artificial Neural Networks</a></p>
 
+![](NN_ALL.png)
